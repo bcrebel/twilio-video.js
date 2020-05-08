@@ -11,6 +11,4 @@ docker
 logs
 node_modules
 npm-debug.log
-scripts
-test.json
-test/
+
